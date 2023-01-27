@@ -1,6 +1,6 @@
-# **LEARNING:** Docker and Docker Compose
+# "Dockerized" NodeJS Application
 
-This was a small application developed to learn Docker and Docker Compose. 
+This was a small project to learn the basics of Docker and Docker Compose. 
 It was based on [Nana Janashia's course on Docker](https://youtu.be/3c-iBn73dDE).
 
 **Requirements:**
